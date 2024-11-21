@@ -1,3 +1,4 @@
+<head>Description</head>
 Personal Diary is an intuitive and secure diary application designed to help you keep track of your daily thoughts, experiences, and memories. Built using Python and tkinter for the graphical user interface, this application allows you to create, view, edit, and delete diary entries effortlessly.
 SCREENSHOT
 ![Code screenshot](https://github.com/user-attachments/assets/a009f1d0-321c-478c-b336-cac92764a9d2)
