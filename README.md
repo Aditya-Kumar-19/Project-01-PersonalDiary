@@ -10,7 +10,7 @@ A simple Python-based Personal Diary application that lets you record, save, and
 - Automatically timestamps each entry.
 - Search for entries by date or keyword.
 - Save diary entries to a local file for future reference.
-- Simple and intuitive interface (CLI-based or GUI-based).
+- Simple and intuitive interface (GUI-based).
 
 ---
 
@@ -27,6 +27,5 @@ A simple Python-based Personal Diary application that lets you record, save, and
 
 1. Clone this repository or download the source files:
    ```bash
-   git clone https://github.com/your-username/personal-diary.git
-   cd personal-diary
+   git clone https://github.com/Aditya-Kumar-19/Project-01-PersonalDiary.git
 
